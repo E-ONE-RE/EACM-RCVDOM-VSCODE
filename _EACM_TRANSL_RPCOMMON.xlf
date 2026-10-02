@@ -47,6 +47,21 @@
         </trans-unit>
       </group>
       <group datatype="x-METADATA_EXTENSION" resname="/EACM/C_RCVDOM">
+        <trans-unit id="METADATA_EXTENSION:/EACM/C_RCVDOM:ENDUSERTEXT.LABEL:FIELD:VALIDDOMAIN" maxwidth="40" size-unit="char">
+          <source>Valid mail domain</source>
+          <target>Dominio mail valido</target>
+          <note>End user text label for field VALIDDOMAIN of entity /EACM/C_RCVDOM.</note>
+        </trans-unit>
+        <trans-unit id="METADATA_EXTENSION:/EACM/C_RCVDOM:UI.IDENTIFICATION$1$.LABEL:FIELD:VALIDDOMAIN" maxwidth="40" size-unit="char">
+          <source>Valid mail domain</source>
+          <target>Dominio mail valido</target>
+          <note>UI identification label for field VALIDDOMAIN of entity /EACM/C_RCVDOM.</note>
+        </trans-unit>
+        <trans-unit id="METADATA_EXTENSION:/EACM/C_RCVDOM:UI.LINEITEM$1$.LABEL:FIELD:VALIDDOMAIN" maxwidth="40" size-unit="char">
+          <source>Valid mail domain</source>
+          <target>Dominio mail valido</target>
+          <note>UI line item label for field VALIDDOMAIN of entity /EACM/C_RCVDOM.</note>
+        </trans-unit>
         <trans-unit id="METADATA_EXTENSION:/EACM/C_RCVDOM:ENDUSERTEXT.LABEL:FIELD:ID" maxwidth="40" size-unit="char">
           <source>ID</source>
           <target>ID</target>
@@ -97,8 +112,8 @@
       </group>
       <group datatype="x-DATA_ELEMENT" resname="/EACM/ADDRESS">
         <trans-unit id="DATA_ELEMENT:/EACM/ADDRESS:SHORT_DESCRIPTION" maxwidth="60" size-unit="char">
-          <source>Sender</source>
-          <target>Mittente</target>
+          <source>Sender/Receiver Address</source>
+          <target>Indirizzo Mittente/Destinatario</target>
           <note>Short description for Data Element /EACM/ADDRESS.</note>
         </trans-unit>
         <trans-unit id="DATA_ELEMENT:/EACM/ADDRESS:SHORT_FIELD_LABEL" maxwidth="10" size-unit="char">
@@ -178,7 +193,7 @@
       </group>
       <group datatype="x-LTO_UIAD" resname="/EACM/RCVDOM_UI5R">
         <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:ALT_SMART_LINK_TITLE:RECORD:SUI_TM_MM_APPT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXV0=" maxwidth="255" size-unit="char">
-          <source>Receiver's Mail domains</source>
+          <source>Receiver's mail domains</source>
           <target>Domini mail del destinatario</target>
           <note>The field ALT_SMART_LINK_TITLE is used as app title in launchpad app descriptor item</note>
         </trans-unit>
@@ -188,7 +203,7 @@
           <note>The field DESCRIPTION is used as description in launchpad app descriptor item</note>
         </trans-unit>
         <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:TILE_TITLE:RECORD:SUI_TM_MM_APPATT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXSxbIlRJTEVfSUQiLCIvRUFDTS9SQ1ZET01fVUk1Ul9BTCJdXQ==" maxwidth="255" size-unit="char">
-          <source>Receiver's Mail domains</source>
+          <source>Receiver's mail domains</source>
           <target>Domini mail del destinatario</target>
           <note>The field TILE_TITLE is used as tile title in launchpad app descriptor item</note>
         </trans-unit>
@@ -199,12 +214,12 @@
         </trans-unit>
         <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:TILE_KEYWORDS:RECORD:SUI_TM_MM_APPATT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXSxbIlRJTEVfSUQiLCIvRUFDTS9SQ1ZET01fVUk1Ul9BTCJdXQ==" maxwidth="255" size-unit="char">
           <source/>
-		  <target/>
+          <target/>
           <note>The field TILE_KEYWORDS is used as tile keywords in launchpad app descriptor item</note>
         </trans-unit>
         <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:TILE_INFORMATION:RECORD:SUI_TM_MM_APPATT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXSxbIlRJTEVfSUQiLCIvRUFDTS9SQ1ZET01fVUk1Ul9BTCJdXQ==" maxwidth="255" size-unit="char">
           <source/>
-		  <target/>
+          <target/>
           <note>The field TILE_INFORMATION is used as tile information in launchpad app descriptor item</note>
         </trans-unit>
       </group>
