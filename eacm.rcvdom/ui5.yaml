@@ -30,6 +30,10 @@ server:
       configuration:
         flp:
           theme: sap_horizon
+          path: test/flp.html
+        editors:
+          cardGenerator:
+            path: /test/flpCardGeneratorSandbox.html
 builder:
   resources:
     excludes:
