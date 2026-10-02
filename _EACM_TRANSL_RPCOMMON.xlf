@@ -6,8 +6,8 @@
     <body>
       <group datatype="x-DATA_DEFINITION" resname="/EACM/C_RCVDOM">
         <trans-unit id="DATA_DEFINITION:/EACM/C_RCVDOM:ENDUSERTEXT.LABEL:ENTITY" maxwidth="40" size-unit="char">
-          <source>Projection View for /EACM/R_RCVDOM</source>
-          <target>Projection View for /EACM/R_RCVDOM</target>
+          <source>Valid receiver's mail domain</source>
+          <target>Dominio mail del destinatario valido</target>
           <note>End user text label for entity /EACM/C_RCVDOM.</note>
         </trans-unit>
       </group>
@@ -139,7 +139,7 @@
       </group>
       <group datatype="x-DATA_ELEMENT" resname="/EACM/RCVDOM_VALUE">
         <trans-unit id="DATA_ELEMENT:/EACM/RCVDOM_VALUE:SHORT_DESCRIPTION" maxwidth="60" size-unit="char">
-          <source>Valid Receiver's mail domain</source>
+          <source>Valid receiver's mail domain</source>
           <target>Dominio mail del destinatario valido</target>
           <note>Short description for Data Element /EACM/RCVDOM_VALUE.</note>
         </trans-unit>
@@ -198,8 +198,8 @@
           <note>The field ALT_SMART_LINK_TITLE is used as app title in launchpad app descriptor item</note>
         </trans-unit>
         <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:DESCRIPTION:RECORD:SUI_TM_MM_APPT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXV0=" maxwidth="255" size-unit="char">
-          <source>Valid receiver's mail domains</source>
-          <target>Domini mail del destinatario validi</target>
+          <source>Receiver's mail domains</source>
+          <target>Domini mail del destinatario</target>
           <note>The field DESCRIPTION is used as description in launchpad app descriptor item</note>
         </trans-unit>
         <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:TILE_TITLE:RECORD:SUI_TM_MM_APPATT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXSxbIlRJTEVfSUQiLCIvRUFDTS9SQ1ZET01fVUk1Ul9BTCJdXQ==" maxwidth="255" size-unit="char">
