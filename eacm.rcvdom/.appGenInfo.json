@@ -1,0 +1,29 @@
+{
+  "generationParameters": {
+    "generationDate": "Fri Oct 02 2026 10:31:23 GMT+0200 (Central European Summer Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "SAP System (ABAP Cloud)",
+    "metadataFilename": "",
+    "serviceUrl": "https://8e0d8821-e882-4534-a88c-b915b1305788.abap.eu10.hana.ondemand.com/sap/opu/odata4/eacm/ui_rcvdom_o4/srvd/eacm/ui_rcvdom_o4/0001/",
+    "appName": "eacm.rcvdom",
+    "appTitle": "Receiver's Mail domain",
+    "appDescription": "Receiver's Mail domain",
+    "appNamespace": "",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.148.9",
+    "enableEslint": true,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.29.0",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Zrcvdom"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```",
+    "valueHelpDownloaded": true
+  }
+}

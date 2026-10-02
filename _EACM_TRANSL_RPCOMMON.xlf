@@ -1,0 +1,213 @@
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="plaintext" original="/EACM/TRANSL_RPCOMMON" source-language="en-US" target-language="it-IT">
+    <header>
+      <tool tool-company="SAP SE" tool-id="urn:x-sap:maintain-translations-fiori-app" tool-name="Maintain Translations Fiori App" tool-version="1.0.0"/>
+    </header>
+    <body>
+      <group datatype="x-DATA_DEFINITION" resname="/EACM/C_RCVDOM">
+        <trans-unit id="DATA_DEFINITION:/EACM/C_RCVDOM:ENDUSERTEXT.LABEL:ENTITY" maxwidth="40" size-unit="char">
+          <source>Projection View for /EACM/R_RCVDOM</source>
+          <target>Projection View for /EACM/R_RCVDOM</target>
+          <note>End user text label for entity /EACM/C_RCVDOM.</note>
+        </trans-unit>
+      </group>
+      <group datatype="x-DATA_DEFINITION" resname="/EACM/I_ACTIVEAGENT">
+        <trans-unit id="DATA_DEFINITION:/EACM/I_ACTIVEAGENT:ENDUSERTEXT.LABEL:ENTITY" maxwidth="40" size-unit="char">
+          <source>Report - Get last active agent</source>
+          <target>Report - Get last active agent</target>
+          <note>End user text label for entity /EACM/I_ACTIVEAGENT.</note>
+        </trans-unit>
+      </group>
+      <group datatype="x-DATA_DEFINITION" resname="/EACM/I_AGENTDATA">
+        <trans-unit id="DATA_DEFINITION:/EACM/I_AGENTDATA:ENDUSERTEXT.LABEL:ENTITY" maxwidth="40" size-unit="char">
+          <source>Report - Get active agent data</source>
+          <target>Report - Get active agent data</target>
+          <note>End user text label for entity /EACM/I_AGENTDATA.</note>
+        </trans-unit>
+      </group>
+      <group datatype="x-DATA_DEFINITION" resname="/EACM/I_GETALLSDTYPES">
+        <trans-unit id="DATA_DEFINITION:/EACM/I_GETALLSDTYPES:ENDUSERTEXT.LABEL:ENTITY" maxwidth="40" size-unit="char">
+          <source>Report - Get all SD document types</source>
+          <target>Report - Get all SD document types</target>
+          <note>End user text label for entity /EACM/I_GETALLSDTYPES.</note>
+        </trans-unit>
+      </group>
+      <group datatype="x-DATA_DEFINITION" resname="/EACM/I_SDTYPESIGN">
+        <trans-unit id="DATA_DEFINITION:/EACM/I_SDTYPESIGN:ENDUSERTEXT.LABEL:ENTITY" maxwidth="40" size-unit="char">
+          <source>Report - Get sign from SD document type</source>
+          <target>Report - Get sign from SD document type</target>
+          <note>End user text label for entity /EACM/I_SDTYPESIGN.</note>
+        </trans-unit>
+      </group>
+      <group datatype="x-DATA_DEFINITION" resname="/EACM/R_RCVDOM">
+        <trans-unit id="DATA_DEFINITION:/EACM/R_RCVDOM:ENDUSERTEXT.LABEL:ENTITY" maxwidth="40" size-unit="char">
+          <source>View Entity for /EACM/RCVDOM</source>
+          <target>View Entity for /EACM/RCVDOM</target>
+          <note>End user text label for entity /EACM/R_RCVDOM.</note>
+        </trans-unit>
+      </group>
+      <group datatype="x-METADATA_EXTENSION" resname="/EACM/C_RCVDOM">
+        <trans-unit id="METADATA_EXTENSION:/EACM/C_RCVDOM:ENDUSERTEXT.LABEL:FIELD:ID" maxwidth="40" size-unit="char">
+          <source>ID</source>
+          <target>ID</target>
+          <note>End user text label for field ID of entity /EACM/C_RCVDOM.</note>
+        </trans-unit>
+        <trans-unit id="METADATA_EXTENSION:/EACM/C_RCVDOM:UI.FACET$1$.LABEL:FIELD:ID" maxwidth="40" size-unit="char">
+          <source>Valid mail domain</source>
+          <target>Dominio mail valido</target>
+          <note>UI facet label for field ID of entity /EACM/C_RCVDOM.</note>
+        </trans-unit>
+        <trans-unit id="METADATA_EXTENSION:/EACM/C_RCVDOM:UI.IDENTIFICATION$1$.LABEL:FIELD:ID" maxwidth="40" size-unit="char">
+          <source>ID</source>
+          <target>ID</target>
+          <note>UI identification label for field ID of entity /EACM/C_RCVDOM.</note>
+        </trans-unit>
+        <trans-unit id="METADATA_EXTENSION:/EACM/C_RCVDOM:UI.LINEITEM$1$.LABEL:FIELD:ID" maxwidth="40" size-unit="char">
+          <source>ID</source>
+          <target>ID</target>
+          <note>UI line item label for field ID of entity /EACM/C_RCVDOM.</note>
+        </trans-unit>
+      </group>
+      <group datatype="x-DATA_ELEMENT" resname="/EACM/W3CONTTYPE">
+        <trans-unit id="DATA_ELEMENT:/EACM/W3CONTTYPE:SHORT_DESCRIPTION" maxwidth="60" size-unit="char">
+          <source>MIME Type</source>
+          <target>Tipo MIME</target>
+          <note>Short description for Data Element /EACM/W3CONTTYPE.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/W3CONTTYPE:SHORT_FIELD_LABEL" maxwidth="10" size-unit="char">
+          <source>MIME Type</source>
+          <target>Tipo MIME</target>
+          <note>Short field label for Data Element /EACM/W3CONTTYPE.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/W3CONTTYPE:MEDIUM_FIELD_LABEL" maxwidth="20" size-unit="char">
+          <source>MIME Type</source>
+          <target>Tipo MIME</target>
+          <note>Medium field label for Data Element /EACM/W3CONTTYPE.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/W3CONTTYPE:LONG_FIELD_LABEL" maxwidth="40" size-unit="char">
+          <source>MIME Type of Web Object</source>
+          <target>Tipo MIME di oggetti Web</target>
+          <note>Long field label for Data Element /EACM/W3CONTTYPE.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/W3CONTTYPE:HEADING_FIELD_LABEL" maxwidth="55" size-unit="char">
+          <source>MIME Type</source>
+          <target>Tipo MIME</target>
+          <note>Heading field label for Data Element /EACM/W3CONTTYPE.</note>
+        </trans-unit>
+      </group>
+      <group datatype="x-DATA_ELEMENT" resname="/EACM/ADDRESS">
+        <trans-unit id="DATA_ELEMENT:/EACM/ADDRESS:SHORT_DESCRIPTION" maxwidth="60" size-unit="char">
+          <source>Sender</source>
+          <target>Mittente</target>
+          <note>Short description for Data Element /EACM/ADDRESS.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/ADDRESS:SHORT_FIELD_LABEL" maxwidth="10" size-unit="char">
+          <source>Send/Recv</source>
+          <target>MItt/Dest</target>
+          <note>Short field label for Data Element /EACM/ADDRESS.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/ADDRESS:MEDIUM_FIELD_LABEL" maxwidth="20" size-unit="char">
+          <source>Sender/Receiver</source>
+          <target>Mittente/Destinat.</target>
+          <note>Medium field label for Data Element /EACM/ADDRESS.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/ADDRESS:LONG_FIELD_LABEL" maxwidth="40" size-unit="char">
+          <source>Sender/Receiver Address</source>
+          <target>Indirizzo Mittente/Destinatario</target>
+          <note>Long field label for Data Element /EACM/ADDRESS.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/ADDRESS:HEADING_FIELD_LABEL" maxwidth="55" size-unit="char">
+          <source>Sender/Receiver Address</source>
+          <target>Indirizzo Mittente/Destinatario</target>
+          <note>Heading field label for Data Element /EACM/ADDRESS.</note>
+        </trans-unit>
+      </group>
+      <group datatype="x-DATA_ELEMENT" resname="/EACM/RCVDOM_VALUE">
+        <trans-unit id="DATA_ELEMENT:/EACM/RCVDOM_VALUE:SHORT_DESCRIPTION" maxwidth="60" size-unit="char">
+          <source>Valid Receiver's mail domain</source>
+          <target>Dominio mail del destinatario valido</target>
+          <note>Short description for Data Element /EACM/RCVDOM_VALUE.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/RCVDOM_VALUE:SHORT_FIELD_LABEL" maxwidth="10" size-unit="char">
+          <source>Domain</source>
+          <target>Dominio</target>
+          <note>Short field label for Data Element /EACM/RCVDOM_VALUE.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/RCVDOM_VALUE:MEDIUM_FIELD_LABEL" maxwidth="20" size-unit="char">
+          <source>Valid mail domain</source>
+          <target>Dominio mail valido</target>
+          <note>Medium field label for Data Element /EACM/RCVDOM_VALUE.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/RCVDOM_VALUE:LONG_FIELD_LABEL" maxwidth="40" size-unit="char">
+          <source>Valid receiver's mail domain</source>
+          <target>Dominio mail del destinatario valido</target>
+          <note>Long field label for Data Element /EACM/RCVDOM_VALUE.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/RCVDOM_VALUE:HEADING_FIELD_LABEL" maxwidth="55" size-unit="char">
+          <source>Valid receiver's mail domain</source>
+          <target>Dominio mail del destinatario valido</target>
+          <note>Heading field label for Data Element /EACM/RCVDOM_VALUE.</note>
+        </trans-unit>
+      </group>
+      <group datatype="x-DATA_ELEMENT" resname="/EACM/SUBJECT">
+        <trans-unit id="DATA_ELEMENT:/EACM/SUBJECT:SHORT_DESCRIPTION" maxwidth="60" size-unit="char">
+          <source>Subject</source>
+          <target>Titolo</target>
+          <note>Short description for Data Element /EACM/SUBJECT.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/SUBJECT:SHORT_FIELD_LABEL" maxwidth="10" size-unit="char">
+          <source>Subject</source>
+          <target>Titolo</target>
+          <note>Short field label for Data Element /EACM/SUBJECT.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/SUBJECT:MEDIUM_FIELD_LABEL" maxwidth="20" size-unit="char">
+          <source>Subject</source>
+          <target>Titolo</target>
+          <note>Medium field label for Data Element /EACM/SUBJECT.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/SUBJECT:LONG_FIELD_LABEL" maxwidth="40" size-unit="char">
+          <source>Subject</source>
+          <target>Titolo</target>
+          <note>Long field label for Data Element /EACM/SUBJECT.</note>
+        </trans-unit>
+        <trans-unit id="DATA_ELEMENT:/EACM/SUBJECT:HEADING_FIELD_LABEL" maxwidth="55" size-unit="char">
+          <source>Subject</source>
+          <target>Titolo</target>
+          <note>Heading field label for Data Element /EACM/SUBJECT.</note>
+        </trans-unit>
+      </group>
+      <group datatype="x-LTO_UIAD" resname="/EACM/RCVDOM_UI5R">
+        <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:ALT_SMART_LINK_TITLE:RECORD:SUI_TM_MM_APPT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXV0=" maxwidth="255" size-unit="char">
+          <source>Receiver's Mail domains</source>
+          <target>Domini mail del destinatario</target>
+          <note>The field ALT_SMART_LINK_TITLE is used as app title in launchpad app descriptor item</note>
+        </trans-unit>
+        <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:DESCRIPTION:RECORD:SUI_TM_MM_APPT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXV0=" maxwidth="255" size-unit="char">
+          <source>Valid receiver's mail domains</source>
+          <target>Domini mail del destinatario validi</target>
+          <note>The field DESCRIPTION is used as description in launchpad app descriptor item</note>
+        </trans-unit>
+        <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:TILE_TITLE:RECORD:SUI_TM_MM_APPATT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXSxbIlRJTEVfSUQiLCIvRUFDTS9SQ1ZET01fVUk1Ul9BTCJdXQ==" maxwidth="255" size-unit="char">
+          <source>Receiver's Mail domains</source>
+          <target>Domini mail del destinatario</target>
+          <note>The field TILE_TITLE is used as tile title in launchpad app descriptor item</note>
+        </trans-unit>
+        <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:TILE_SUBTITLE:RECORD:SUI_TM_MM_APPATT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXSxbIlRJTEVfSUQiLCIvRUFDTS9SQ1ZET01fVUk1Ul9BTCJdXQ==" maxwidth="255" size-unit="char">
+          <source>Valid receiver's mail domains</source>
+          <target>Domini mail del destinatario validi</target>
+          <note>The field TILE_SUBTITLE is used as tile subtitle in launchpad app descriptor item</note>
+        </trans-unit>
+        <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:TILE_KEYWORDS:RECORD:SUI_TM_MM_APPATT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXSxbIlRJTEVfSUQiLCIvRUFDTS9SQ1ZET01fVUk1Ul9BTCJdXQ==" maxwidth="255" size-unit="char">
+          <source/>
+		  <target/>
+          <note>The field TILE_KEYWORDS is used as tile keywords in launchpad app descriptor item</note>
+        </trans-unit>
+        <trans-unit id="LTO_UIAD:/EACM/RCVDOM_UI5R:TILE_INFORMATION:RECORD:SUI_TM_MM_APPATT:W1siQVBQX0lEIiwiL0VBQ00vUkNWRE9NX1VJNVIiXSxbIlRJTEVfSUQiLCIvRUFDTS9SQ1ZET01fVUk1Ul9BTCJdXQ==" maxwidth="255" size-unit="char">
+          <source/>
+		  <target/>
+          <note>The field TILE_INFORMATION is used as tile information in launchpad app descriptor item</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
