@@ -20,7 +20,7 @@ builder:
           name: /EACM/RCVDOM
           description: Receiver's Mail domain
           package: /EACM/RPCOMMON
-          transport: DVLK900271
+          transport: REPLACE_WITH_TRANSPORT
         exclude:
           - /test/
           - /localService/

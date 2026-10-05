@@ -1,5 +1,5 @@
-# EACM-RPCOMMON-VSCODE
-Progetto TBRCVDOM su VS-Code
+# EACM-RCVDOM-VSCODE
+Progetto RCVDOM su VS-Code
 
 Package /EACM/RPCOMMON
 
